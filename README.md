@@ -1,1 +1,1 @@
-Este es un proyecto de prueba de como crer un repositorio y clonarlo desde github a mi computadora
+prueba 2 
