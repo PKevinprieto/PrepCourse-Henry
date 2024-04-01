@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio PrepCourse  Mod2
+Este es un proyecto de prueba de como crer un repositorio y clonarlo desde github a mi computadora
